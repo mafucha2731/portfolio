@@ -1,7 +1,6 @@
+<h2 align="center">Richard Mafuchan - Photographer Portfolio Website</h2>
 
-  <h2 align="center">Richard Mafuchan - Photographer Portfolio Website</h2>
-
-  Richard Mafuchan is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Richard Mafuchan is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 
 ### Demo Screeshots
