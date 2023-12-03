@@ -1,7 +1,7 @@
 
   <h2 align="center">Complete Cake Store Website</h2>
 
- Complete Cake Store Website is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ <h３ align="center">Complete Cake Store Website is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.</h3>
 
  
 ### Demo Screeshots
@@ -13,26 +13,26 @@
 
 ### Concept
 
-Beleness is a fictitious cake store, offering upscale products.
+<h３ align="center">Beleness is a fictitious cake store, offering upscale products.
 
 The selection includes desserts, chocolate cakes, pastries, donuts, and more.
 
 Set up a simple form from the site that allows detailed reservations for cakes.
 
-Enter the type of cake, fragrance, weight, date and time of pickup, etc.
+Enter the type of cake, fragrance, weight, date and time of pickup, etc.</h3>
 
 
 ### Slills
 
-1) jQuery image slider "Owl Carousel
+・jQuery image slider "Owl Carousel
 
-2） "AOS.js" scroll animation library
+・"AOS.js" scroll animation library
 
-３）　　bootstrap５
+・bootstrap５
 
-4) Clip path maker
+・Clip path maker
 
-5) and more
+・and more
 
 ### License
 
