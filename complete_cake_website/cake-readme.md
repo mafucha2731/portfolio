@@ -13,26 +13,26 @@
 
 ### Concept
 
-<h3 align="center">Beleness is a fictitious cake store, offering upscale products.
+Beleness is a fictitious cake store, offering upscale products.
 
 The selection includes desserts, chocolate cakes, pastries, donuts, and more.
 
 Set up a simple form from the site that allows detailed reservations for cakes.
 
-Enter the type of cake, fragrance, weight, date and time of pickup, etc.</h3>
+Enter the type of cake, fragrance, weight, date and time of pickup, etc.
 
 
 ### Slills
 
-1.jQuery image slider "Owl Carousel
+-jQuery image slider "Owl Carousel
 
-1."AOS.js" scroll animation library
+-"AOS.js" scroll animation library
 
-1.bootstrap５
+-bootstrap５
 
-1.Clip path maker
+-Clip path maker
 
-1.and more
+-and more
 
 ### License
 
