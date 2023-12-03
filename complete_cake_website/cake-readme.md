@@ -24,15 +24,15 @@ Enter the type of cake, fragrance, weight, date and time of pickup, etc.
 
 ### Slills
 
--jQuery image slider "Owl Carousel
+- jQuery image slider "Owl Carousel
 
--"AOS.js" scroll animation library
+- "AOS.js" scroll animation library
 
--bootstrap５
+- bootstrap５
 
--Clip path maker
+- Clip path maker
 
--and more
+- and more
 
 ### License
 
